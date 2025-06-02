@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Manager Chatbot
 
 This project combines a React frontend chatbot with a backend that integrates with AI agents for project management.
@@ -59,3 +60,6 @@ The backend API will be available at `http://localhost:8000`
 - Backend: FastAPI + Python
 - AI Agents: CrewAI + LangChain + Gemini
 - Communication: REST API 
+=======
+# AURA
+>>>>>>> e2d9d7d162f683c470daac75ea02f985c6d5dad0
