@@ -20,7 +20,7 @@ The frontend will be available at `http://localhost:5173`
 1. Create a Python virtual environment:
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+.venv\Scripts\activate  # On Windows: venv\Scripts\activate
 ```
 
 2. Install Python dependencies:
