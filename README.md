@@ -56,7 +56,7 @@ The backend API will be available at `http://localhost:8000`
 ## Architecture
 
 - Frontend: React + TypeScript + Vite
-- Backend: FastAPI + Python
+- Backend: Flask + Python
 - AI Agents: CrewAI + LangChain + Gemini
 - Communication: REST API 
 
